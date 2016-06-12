@@ -41,7 +41,7 @@ import com.ibm.watson.developer_cloud.retrieve_and_rank.v1.payload.QueryRequestP
 import com.ibm.watson.developer_cloud.retrieve_and_rank.v1.payload.QueryResponsePayload;
 import com.ibm.watson.developer_cloud.retrieve_and_rank.v1.utils.HttpSolrClientUtils;
 import com.ibm.watson.developer_cloud.retrieve_and_rank.v1.utils.SolrUtils;
-import com.ibm.watson.developer_cloud.service.ServiceResponseException;
+import com.ibm.watson.developer_cloud.service.exception.ServiceResponseException;
 import com.ibm.watson.developer_cloud.util.CredentialUtils;
 
 
