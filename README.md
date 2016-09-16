@@ -74,7 +74,7 @@ Ensure that you have the following prerequisites before you start:
   $ cf push -p target/webApp.war
   ```
 
-9. Train the service to use the Cranfield collection and train a ranker with the Cranfield data. See a tutorial in <a href="http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/doc/retrieve-rank/get_start.shtml" target="_blank"> Getting started with the Retrieve and Rank service</a>. As you complete the tutorial, save this information:
+9. Train the service to use the Cranfield collection and train a ranker with the Cranfield data. See a tutorial in [Getting started with the Retrieve and Rank service](http://www.ibm.com/watson/developercloud/doc/retrieve-rank/). As you complete the tutorial, save this information:
   * Solr cluster ID: The unique identifier of the Apache Solr Cluster that you create.
   * Collection name: The name you give to the Solr collection when you create it.  
   * Ranker ID: The unique identifier of the ranker you create.
