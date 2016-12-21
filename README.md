@@ -74,7 +74,7 @@ Ensure that you have the following prerequisites before you start:
   $ cf push -p target/webApp.war
   ```
 
-9. Train the service to use the Cranfield collection and train a ranker with the Cranfield data. See a tutorial in <a href="http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/doc/retrieve-rank/get_start.shtml" target="_blank"> Getting started with the Retrieve and Rank service</a>. As you complete the tutorial, save this information:
+9. Train the service to use the Cranfield collection and train a ranker with the Cranfield data. See a tutorial in <a href="http://www.ibm.com/watson/developercloud/doc/retrieve-rank/get_start.shtml" target="_blank"> Getting started with the Retrieve and Rank service</a>. As you complete the tutorial, save this information:
   * Solr cluster ID: The unique identifier of the Apache Solr Cluster that you create.
   * Collection name: The name you give to the Solr collection when you create it.  
   * Ranker ID: The unique identifier of the ranker you create.
@@ -159,9 +159,9 @@ Ensure that you have the following prerequisites before you start:
 
 
 ## Reference information
-* Retrieve and Rank service [documentation](http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/doc/retrieve-rank/)
-* [Configuring](http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/doc/retrieve-rank/configure.shtml) the Retrieve and Rank service
-* Retrieve and Rank [API reference](http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/retrieve-and-rank/api/v1/)
+* Retrieve and Rank service [documentation](http://www.ibm.com/watson/developercloud/doc/retrieve-rank/)
+* [Configuring](http://www.ibm.com/watson/developercloud/doc/retrieve-rank/configure.shtml) the Retrieve and Rank service
+* Retrieve and Rank [API reference](http://www.ibm.com/watson/developercloud/retrieve-and-rank/api/v1/)
 
 ## Open Source @ IBM
 
@@ -170,7 +170,7 @@ Ensure that you have the following prerequisites before you start:
 
 [sign_up]: https://console.ng.bluemix.net/registration/
 [cloud_foundry]: https://github.com/cloudfoundry/cli
-[service_url]: http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/retrieve-and-rank.html
+[service_url]: http://www.ibm.com/watson/developercloud/retrieve-and-rank.html
 [sign_up]: https://console.ng.bluemix.net/registration/
 [liberty]: https://developer.ibm.com/wasdev/downloads/
 [liberty_mac]: http://www.stormacq.com/how-to-install-websphere-8-5-liberty-profile-on-mac/
