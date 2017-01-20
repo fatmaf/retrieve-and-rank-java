@@ -71,7 +71,7 @@ Ensure that you have the following prerequisites before you start:
 8. Push it live!
 
   ```sh
-  $ cf push -p target/webApp.war
+  $ cf push -p target/retrieve-and-rank-demo-0.5-SNAPSHOT.war
   ```
 
 9. Train the service to use the Cranfield collection and train a ranker with the Cranfield data. See a tutorial in <a href="http://www.ibm.com/watson/developercloud/doc/retrieve-rank/get_start.shtml" target="_blank"> Getting started with the Retrieve and Rank service</a>. As you complete the tutorial, save this information:

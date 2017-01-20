@@ -7,7 +7,7 @@ applications:
 - name: retrieve-and-rank-java
   services:
     - retrieve-and-rank-standard
-  path: target/webApp.war
+  path: target/retrieve-and-rank-demo-0.5-SNAPSHOT
   memory: 512M
   env:
     JBP_CONFIG_LIBERTY: 'app_archive: {features: [jaxrs-1.1]}'
